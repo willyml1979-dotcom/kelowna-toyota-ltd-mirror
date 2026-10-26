@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Toyota Ltd",
-  "generated_at": "2026-10-26T04:50:58",
+  "generated_at": "2026-10-26T06:41:49",
   "vehicle_count": 353,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -2776,7 +2776,7 @@
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "new",
-      "price": 63840.0,
+      "price": 70282.0,
       "price_currency": "CAD"
     },
     {
@@ -2945,7 +2945,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tundra CrewMax Platinum With Advanced Package | Factory O",
+      "name": "2026 Toyota Tundra CrewMax Platinum With Advanced Package | Factory Order",
       "vin": "FOTOYOTATNE859041",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/f819dc085464.html",
       "year": 2026,
@@ -3110,7 +3110,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tundra CrewMax Platinum L With Tow Mirrors | Factory Orde",
+      "name": "2026 Toyota Tundra CrewMax Platinum L With Tow Mirrors | Factory Order",
       "vin": "FOTOYOTATNE231823",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/03641a8c55a6.html",
       "year": 2026,
