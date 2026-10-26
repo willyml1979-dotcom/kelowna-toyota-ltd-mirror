@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Toyota Ltd",
-  "generated_at": "2026-10-25T19:43:24",
+  "generated_at": "2026-10-25T21:51:01",
   "vehicle_count": 353,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -2553,7 +2553,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tacoma 4X4 Double Cab 8A TRD Sport (6-ft Bed) | Factory O",
+      "name": "2026 Toyota Tacoma 4X4 Double Cab 8A TRD Sport (6-ft Bed) | Factory Order",
       "vin": "3TYLB5JN0TT804674",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/eea1e25191e7.html",
       "year": 2026,
@@ -2637,7 +2637,7 @@
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "new",
-      "price": 63840.0,
+      "price": 70282.0,
       "price_currency": "CAD"
     },
     {
@@ -2703,7 +2703,7 @@
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "new",
-      "price": 63840.0,
+      "price": 70282.0,
       "price_currency": "CAD"
     },
     {
