@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Toyota Ltd",
-  "generated_at": "2026-11-18T08:35:49",
+  "generated_at": "2026-11-18T15:02:49",
   "vehicle_count": 358,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -965,7 +965,7 @@
       "make": "Chevrolet",
       "model": "Trailblazer",
       "condition": "used",
-      "price": 24995.0,
+      "price": 23995.0,
       "price_currency": "CAD"
     },
     {
