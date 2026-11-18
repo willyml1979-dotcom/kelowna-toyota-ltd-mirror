@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Toyota Ltd",
-  "generated_at": "2026-11-17T23:10:20",
-  "vehicle_count": 358,
+  "generated_at": "2026-11-18T06:34:10",
+  "vehicle_count": 357,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -50,6 +50,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2010 Toyota Matrix 4DR WGN AUTO AWD",
+      "vin": "2T1LE4EE0AC016071",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/ef6ab21c195a.html",
+      "year": 2010,
+      "make": "Toyota",
+      "model": "Matrix 4DR WGN AUTO AWD",
+      "condition": "used",
+      "price": 10995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2011 Jeep Wrangler Sport | AS IS - WHOLESALE TO PUBLIC",
       "vin": "1J4AA2D16BL601618",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/bd4185a8e33a.html",
@@ -81,6 +92,15 @@
       "condition": "used",
       "price": 4995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2013 Toyota 4Runner SR5",
+      "vin": "JTEBU5JR3D5112898",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/1c05cd72976d.html",
+      "year": 2013,
+      "make": "Toyota",
+      "model": "4Runner",
+      "condition": "used"
     },
     {
       "name": "2013 Volkswagen Tiguan Trendline | AS IS - WHOLESALE TO PUBLIC",
@@ -124,28 +144,6 @@
       "model": "Rogue",
       "condition": "used",
       "price": 6995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Toyota Highlander Limited | NO ACCIDENTS | PANO SUNROOF | AWD",
-      "vin": "5TDDKRFH9FS199004",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/91a6cb7af995.html",
-      "year": 2015,
-      "make": "Toyota",
-      "model": "Highlander",
-      "condition": "used",
-      "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Toyota Tundra SR5",
-      "vin": "5TFDY5F13FX488156",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/aa7100d79416.html",
-      "year": 2015,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "used",
-      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
@@ -204,17 +202,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Ford Escape SE | HEATED FRONT SEATS | 4X4",
-      "vin": "1FMCU9GD9HUB54950",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/db195d94f783.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 13995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Honda CR-V EX | AWD | SUNROOF | BACKUP CAMERA",
       "vin": "2HKRW2H55HH118688",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/5a46b95090a5.html",
@@ -224,6 +211,24 @@
       "condition": "used",
       "price": 20995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Nissan Rogue S",
+      "vin": "5N1AT2MV2HC736649",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/82534758451d.html",
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used"
+    },
+    {
+      "name": "2017 Toyota Corolla iM 4DR HB CVT",
+      "vin": "JTNKARJE0HJ545752",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/6bbce352852e.html",
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "used"
     },
     {
       "name": "2018 Ford F-150 Lariat Diesel | NO ACCIDENTS | 360 VIEW BACKUP CAM",
@@ -292,17 +297,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Nissan Pathfinder SL Premium | NO ACCIDENTS | 360 VIEW BACKUP",
-      "vin": "5N1DR2MMXJC631320",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/58ae7fb798b4.html",
-      "year": 2018,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "used",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Nissan Rogue S | NO ACCIDENTS | HEATED FRONT SEATS",
       "vin": "5N1AT2MT3JC738382",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/60c89ef27b77.html",
@@ -322,17 +316,6 @@
       "model": "Camry",
       "condition": "used",
       "price": 26995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Toyota Highlander Limited | NO ACCIDENTS | AWD | 360 BACKUP",
-      "vin": "5TDDZRFH5JS820355",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/90cf33f43abd.html",
-      "year": 2018,
-      "make": "Toyota",
-      "model": "Highlander",
-      "condition": "used",
-      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
@@ -409,6 +392,15 @@
       "condition": "used",
       "price": 34995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Toyota Tacoma Double Cab SR5",
+      "vin": "5TFDZ5BN6KX043216",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/4ac61bedf3d4.html",
+      "year": 2019,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "used"
     },
     {
       "name": "2019 Volkswagen Tiguan Comfortline | ONE OWNER | AWD | PANO SUNROOF",
@@ -532,17 +524,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Ford Ranger Lariat | NO ACCIDENTS | 1 OWNER | TONNEAU COVER",
-      "vin": "1FTER4FH7MLD66140",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/ec8cef4b3a9c.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "used",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Ford Transit Connect Minivan XLT | NO ACCIDENTS | BACKUP CAM",
       "vin": "NM0GE9F29M1498399",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/4f81d77040b5.html",
@@ -563,6 +544,15 @@
       "condition": "used",
       "price": 34995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Jeep Cherokee Trailhawk Elite",
+      "vin": "1C4PJMBXXMD203280",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/0ec41667d08f.html",
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "used"
     },
     {
       "name": "2021 Lexus NX NX 300 Premium | NO ACCIDENTS | AWD | SUNROOF",
@@ -741,6 +731,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Volkswagen Taos Highline",
+      "vin": "3VV2X7B27NM020683",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/98a4232d34b0.html",
+      "year": 2022,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used"
+    },
+    {
       "name": "2023 Chevrolet Silverado 1500 RST | NO ACCIDENTS | 360 VIEW BACKUP",
       "vin": "3GCUDEEL3PG342540",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/ba4a5b99d1e6.html",
@@ -856,7 +855,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 26995.0,
+      "price": 26495.0,
       "price_currency": "CAD"
     },
     {
@@ -912,17 +911,6 @@
       "model": "RAV4 Hybrid Hybrid",
       "condition": "used",
       "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota Tacoma Double Cab TRD Sport Premium | LIFTED | RUNNING BOARDS",
-      "vin": "3TYDZ5BN5PT037926",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/b1ed8ffee8be.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 53995.0,
       "price_currency": "CAD"
     },
     {
@@ -989,17 +977,6 @@
       "model": "Trailblazer",
       "condition": "used",
       "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Bronco Sport Big Bend | NO ACCIDENTS | 4X4 | BACKUP CAM",
-      "vin": "3FMCR9B65RRF06618",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/0df20e2f8c01.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "used",
-      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
@@ -1113,6 +1090,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Hyundai Tucson Hybrid Ultimate",
+      "vin": "KM8JCDD11SU281447",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/aa5e47be935e.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "used"
+    },
+    {
       "name": "2025 Hyundai Venue Preferred | HEATED STEERING WHEEL",
       "vin": "KMHRC8A3XSU364729",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/b3b639b6234c.html",
@@ -1122,6 +1108,15 @@
       "condition": "used",
       "price": 18995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Sorento LX",
+      "vin": "5XYRGDJC0SG347876",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/8d3e1a29a829.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Sorento",
+      "condition": "used"
     },
     {
       "name": "2025 Mazda CX-30 GT | NO ACCIDENTS | AWD | 360 VIEW BACKUP CAM",
@@ -1201,39 +1196,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Toyota Highlander Hybrid Hybrid Platinum | NO ACCIDENTS | AWD | 360 CAM",
-      "vin": "5TDEBRCH8SS688657",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/99ec73035a0d.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "Highlander Hybrid Hybrid",
-      "condition": "used",
-      "price": 65995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Toyota RAV4 Plug-in Hybrid XSE Tech | AWD | PANO SUNROOF",
-      "vin": "JTMGB3FV2SD255404",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/a8b3798e8ff9.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "RAV4 Plug-In Hybrid",
-      "condition": "used",
-      "price": 58995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Toyota RAV4 LE | NO ACCIDENTS | AWD | BACKUP CAMERA",
-      "vin": "2T3B1RFV0SC541577",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/ddc7902267aa.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 33995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Toyota RAV4 LE AWD | NO ACCIDENTS | HEATED FRONT SEATS",
       "vin": "2T3B1RFV4SC517170",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/3eedf4f71ebf.html",
@@ -1253,6 +1215,17 @@
       "model": "RAV4",
       "condition": "used",
       "price": 34995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Toyota Sienna LIMITED HYBRID AWD",
+      "vin": "5TDGSKFC2SS205082",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/3e4051613918.html",
+      "year": 2025,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "used",
+      "price": 65995.0,
       "price_currency": "CAD"
     },
     {
