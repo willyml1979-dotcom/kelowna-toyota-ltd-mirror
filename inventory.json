@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Toyota Ltd",
-  "generated_at": "2026-11-17T20:54:06",
-  "vehicle_count": 357,
+  "generated_at": "2026-11-17T23:10:20",
+  "vehicle_count": 358,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2208,6 +2208,17 @@
       "model": "Sienna",
       "condition": "new",
       "price": 57500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Sienna XLE 8-Passenger FWD",
+      "vin": "5TDGRKEC0TS353097",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/5be357464dcb.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 54340.0,
       "price_currency": "CAD"
     },
     {
