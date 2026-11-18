@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Toyota Ltd",
-  "generated_at": "2026-11-18T06:34:10",
-  "vehicle_count": 357,
+  "generated_at": "2026-11-18T08:35:49",
+  "vehicle_count": 358,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2910,7 +2910,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tundra Limited",
+      "name": "2026 Toyota Tundra Limited Nightshade | $1500 ACC. CREDIT IN NOV!",
       "vin": "5TFWA5ECXTX063190",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/0defafe74397.html",
       "year": 2026,
@@ -3347,6 +3347,17 @@
       "model": "Tundra",
       "condition": "new",
       "price": 78620.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Tundra SR5",
+      "vin": "5TFLA5EC1TX064537",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/a74c1dc87b03.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "new",
+      "price": 66985.0,
       "price_currency": "CAD"
     },
     {
