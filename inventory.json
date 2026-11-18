@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Toyota Ltd",
-  "generated_at": "2026-11-17T05:47:37",
+  "generated_at": "2026-11-17T20:54:06",
   "vehicle_count": 357,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -112,7 +112,7 @@
       "make": "Lexus",
       "model": "NX",
       "condition": "used",
-      "price": 22995.0,
+      "price": 22495.0,
       "price_currency": "CAD"
     },
     {
@@ -583,7 +583,7 @@
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "used",
-      "price": 20995.0,
+      "price": 20495.0,
       "price_currency": "CAD"
     },
     {
@@ -1197,17 +1197,19 @@
       "make": "Toyota",
       "model": "Grand Highlander",
       "condition": "used",
-      "price": 53995.0,
+      "price": 55995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Toyota Highlander Hybrid Hybrid Limited",
+      "name": "2025 Toyota Highlander Hybrid Hybrid Platinum | NO ACCIDENTS | AWD | 360 CAM",
       "vin": "5TDEBRCH8SS688657",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/used/99ec73035a0d.html",
       "year": 2025,
       "make": "Toyota",
       "model": "Highlander Hybrid Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "price": 65995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 Toyota RAV4 Plug-in Hybrid XSE Tech | AWD | PANO SUNROOF",
