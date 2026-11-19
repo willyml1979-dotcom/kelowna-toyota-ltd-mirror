@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Toyota Ltd",
-  "generated_at": "2026-11-18T15:02:49",
-  "vehicle_count": 358,
+  "generated_at": "2026-11-18T18:18:06",
+  "vehicle_count": 343,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1381,28 +1381,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota bZ Woodland AWD",
-      "vin": "JTMBGAHB2TY614814",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/b6802592f1c0.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 55280.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota bZ Woodland AWD",
-      "vin": "JTMBGAHB6TY619885",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/928be6b38d5f.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 54930.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota Camry SE FWD",
       "vin": "4T1DAACK0TU136238",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/1eaa479f43db.html",
@@ -1609,28 +1587,6 @@
       "model": "Crown Signia",
       "condition": "new",
       "price": 61618.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Crown Signia Limited",
-      "vin": "JTDACAAJ6T3060277",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/d53675a2f153.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Crown Signia",
-      "condition": "new",
-      "price": 60585.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota GR Corolla Core MT",
-      "vin": "SB1ADADE1TE001142",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/406c7f9c1616.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "GR Corolla",
-      "condition": "new",
-      "price": 52255.0,
       "price_currency": "CAD"
     },
     {
@@ -2151,50 +2107,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Sienna XLE 8-Passenger FWD",
-      "vin": "5TDGRKEC3TS349674",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/39d375e02edc.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Sienna",
-      "condition": "new",
-      "price": 54340.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Sienna XLE",
-      "vin": "5TDGRKEC4TS350168",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/f14abe46d807.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Sienna",
-      "condition": "new",
-      "price": 54690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Sienna XSE",
-      "vin": "5TDGRKEC6TS352634",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/f92100e5fb7b.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Sienna",
-      "condition": "new",
-      "price": 57500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Sienna XLE 8-Passenger FWD",
-      "vin": "5TDGRKEC0TS353097",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/5be357464dcb.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Sienna",
-      "condition": "new",
-      "price": 54340.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota Tacoma Double Cab TRD Off Road + | CUSTOMIZED",
       "vin": "3TYLB5JN0TT155376",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/d56bcdf745bf.html",
@@ -2591,28 +2503,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tacoma Double Cab TRD Sport+",
-      "vin": "3TYLB5JN9TT159118",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/3b3bef3f5c56.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "new",
-      "price": 58404.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tacoma TRD Off Road+",
-      "vin": "3TYLB5JN3TT154514",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/e2905d5dfecb.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "new",
-      "price": 58818.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota Tundra Platinum with Tonneau Cover | $1500 ACC. CREDIT IN NOV!",
       "vin": "5TFNA5DB6TX428095",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/72afc57f2f24.html",
@@ -2921,7 +2811,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tundra Limited",
+      "name": "2026 Toyota Tundra Limited Nightshade | $1500 ACC. CREDIT IN NOV!",
       "vin": "5TFWA5DBXTX454641",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/4151bb191317.html",
       "year": 2026,
@@ -2932,7 +2822,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tundra Limited",
+      "name": "2026 Toyota Tundra Limited Nightshade | $1500 ACC. CREDIT IN NOV!",
       "vin": "5TFWA5EC9TX063665",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/e02b8b135186.html",
       "year": 2026,
@@ -3328,17 +3218,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tundra SR5 | $1500 ACC. CREDIT IN NOV!",
-      "vin": "5TFLA5DBXTX461673",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/4becb35c40e8.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "new",
-      "price": 64791.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota Tundra Limited TRD Off Road | $1500 ACC. CREDIT IN NOV!",
       "vin": "5TFWA5DB4TX456899",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/29291dd08ec5.html",
@@ -3391,17 +3270,6 @@
       "model": "bZ",
       "condition": "new",
       "price": 48365.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota bZ XLE AWD",
-      "vin": "JTMADAFBXVA016165",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/8b5e9c74e835.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 55785.0,
       "price_currency": "CAD"
     },
     {
@@ -3476,17 +3344,6 @@
       "condition": "new"
     },
     {
-      "name": "2027 Toyota bZ XLE",
-      "vin": "JTMADAFB1VA017396",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/751df0cd4dad.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 55435.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Toyota C-HR XSE Premium AWD",
       "vin": "JTMAAAAD0VJ974838",
       "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/57e42852e618.html",
@@ -3528,17 +3385,6 @@
       "model": "C-HR",
       "condition": "new",
       "price": 46925.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota C-HR XSE AWD",
-      "vin": "JTMAAAAD8VJ033905",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/93ed5e7c1c40.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "C-HR",
-      "condition": "new",
-      "price": 56425.0,
       "price_currency": "CAD"
     },
     {
@@ -3741,17 +3587,6 @@
       "make": "Toyota",
       "model": "Crown",
       "condition": "new"
-    },
-    {
-      "name": "2027 Toyota Crown Limited",
-      "vin": "JTDAGACF1V3000553",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-toyota-ltd-mirror/new/7169ec7b226a.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Crown",
-      "condition": "new",
-      "price": 57675.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2027 Toyota GR86 MT | Factory Order",
